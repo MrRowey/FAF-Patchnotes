@@ -4,23 +4,64 @@
 }
 
 body {
-  background: #333;
   font-family: sans-serif;
   font-size: 14px;
   line-height: 22px;
-  color: #fff;
+  color: #000000;
   margin: 0%;
+  background-image: url("https://sun9-26.userapi.com/rOUnmL9UTOEwykNav4L_rhXQE3pL5PolrSmIzQ/O_k-VKh3sJE.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #333;
+  background-position: 100% 70%;
+  height: 1350px;
 }
 
 h1 {
   font-family: 'Supcom';
-  font-size: 55px;
+  font-size: 70px;
   text-align: center;
   line-height: 100%;
+  color: #fff;
+}
 
+h2 {
+  font-family: 'Supcom';
+  font-size: 45px;
+  text-align: center;
+  line-height: 100%;
+  color: #fff;
 }
 
 .imagetext {
   font-family: 'Supcom';
   font-size: 120px;
+}
+
+.balance {
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: 100%;
+  margin: 1%;
+}
+
+header {
+padding-top: 5px;
+background-color: rgba(51, 51, 51, 0.7);
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+.balancebtn {
+  font-size: 20px;
+  font-family: sans-serif;
+  padding: 3%;
+}
+
+.cardbg {
+  background: #333;
+  color: #fff;
 }
