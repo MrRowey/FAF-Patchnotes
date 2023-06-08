@@ -1,0 +1,18 @@
+@font-face{
+  font-family: 'Supcom';
+  src: url('zeroes_3.ttf');
+}
+
+body {
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: 22px;
+  color: #000000;
+  margin: 0%;
+  background-color: #333;
+}
+
+.imagetext {
+  font-family: 'Supcom';
+  font-size: 120px;
+}
